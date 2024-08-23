@@ -1,8 +1,8 @@
 {
-  "gitSyncId": "66c83ebecc9e37628f9c5563_1b8b9e8d-20fa-420c-b578-0aa6ba3045d5",
-  "id": "Page1_JSModule12",
-  "moduleUUID": "4542b7e1-860e-4e46-854a-c9e1b0fe6fe2",
-  "packageUUID": "d435538b-3c7d-4d56-8d05-031109cb0225",
+  "gitSyncId": "66c83ebecc9e37628f9c5563_5ce21fe0-c715-4648-a8c1-9f1a876dc3f6",
+  "id": "Page1_JSModule13",
+  "moduleUUID": "3a9d1dbc-1d32-468f-992d-35bfd4a81912",
+  "packageUUID": "9d9be02d-f0f4-4f44-b459-abee18853669",
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
@@ -11,23 +11,23 @@
       "myFun2": "[]"
     },
     "moduleInputs": {
-      "altbfvogkq": {
+      "jwxnklshda": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
-        "id": "altbfvogkq",
+        "id": "jwxnklshda",
         "label": "myFun2",
         "propertyName": "inputs.myFun2"
       },
-      "xugpvwdnlz": {
+      "zkdtdoqflg": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
-        "id": "xugpvwdnlz",
+        "id": "zkdtdoqflg",
         "label": "myFun1",
         "propertyName": "inputs.myFun1"
       }
     },
-    "name": "JSModule12",
+    "name": "JSModule13",
     "pageId": "Page1",
-    "version": "0.0.2"
+    "version": "0.0.10"
   }
 }
