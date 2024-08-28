@@ -24,6 +24,10 @@
     {
       "id": "Page2rename",
       "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
