@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66f40b0617ccff504f98d274_7cc72672-a2e4-4f91-b721-5d11f3551508",
-  "id": "Page1 Copy__$test11$_test11",
+  "id": "Page1 Copy__$test11$_test11q",
   "isPublic": true,
   "moduleInstanceId": "Page1 Copy_test11",
   "pluginId": "postgres-plugin",
@@ -15,7 +15,7 @@
       "pluginId": "postgres-plugin"
     },
     "executeOnLoad": false,
-    "name": "_$test11$_test11",
+    "name": "_$test11$_test11q",
     "pageId": "Page1 Copy",
     "userSetOnLoad": false
   }
